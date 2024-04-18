@@ -158,7 +158,7 @@ export default SDK;
 
 Sure, let's update the documentation to include the `useInternalDb` parameter in the available methods:
 
-## Available Methods For the Booking & Appointments API
+## Available Methods For the [Booking & Appointments API](https://docs.britelink.io/apt.html)
 
 The BriteAPI SDK provides methods for performing CRUD operations on various resources:
 
