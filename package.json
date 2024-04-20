@@ -1,6 +1,6 @@
 {
   "name": "briteapi",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "JavaScript SDK for briteAPI services.",
   "main": "index.js",
   "types": "index.d.ts",
